@@ -3,6 +3,8 @@ welcome to my github
 chicken fry
 
 
+beans
+pizza
 
 
 Done 
@@ -10,4 +12,8 @@ Done
 thank you
 regards
 
+
+done my changes
+
 final copuyua
+
